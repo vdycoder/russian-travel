@@ -1,0 +1,18 @@
+.footer__nav-link {
+  font-size: 16px;
+  line-height: 18px;
+  text-decoration: none;
+  color: #ffffff;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.footer__nav-link:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__nav-link {
+    font-size: 24px;
+    line-height: 24px;
+  }
+}
