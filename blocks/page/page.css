@@ -3,7 +3,9 @@
   max-width: 1280px;
   background-color: #2a2c2f;
   font-family: 'Inter', Arial, sans-serif;
-  color: #ffffff;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
